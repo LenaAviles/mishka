@@ -1,10 +1,5 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Юлия Максимова](https://up.htmlacademy.ru/adaptive/12/user/367171).
-* Наставник: `Неизвестно`.
-
----
-
 **Обратите внимание на файл:**
 
 - [Contributing.md](Contributing.md) — руководство по внесению изменений.
